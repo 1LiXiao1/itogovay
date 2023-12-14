@@ -1,9 +1,4 @@
-/* ================================
-    ## fonts - meta
- ===================*/
-input[type="button"]:not(.btn),
-input[type="reset"]:not(.btn),
-input[type="submit"]:not(.btn),
+
 .post-meta,
 .footer-bottom-copyright,
 .heading__title,
@@ -55,10 +50,6 @@ small,
     font-family: 'Roboto', sans-serif;
 }
 
-
-/* ============================================================
-    ## fonts - title
- ==============================================================*/
 h3,
 h4,
 .subscriber-title,

@@ -1,8 +1,8 @@
 :root {
-    --color-logo: #ffcc0d;
-    --color-border: #efefef;
-    --color-title: #222222;
-    --color-heading: #dcdcdc;
-    --color-excerpt: #717171;
-    --color-title-black: rgba(0,0,0,0.8);
+    --color-logo: #ffc800;
+    --color-border: #000000;
+    --color-title: #da0000;
+    --color-heading: #e22828;
+    --color-excerpt: #ff0404;
+    --color-title-black: rgba(0, 0, 0, 0.8);
 }
