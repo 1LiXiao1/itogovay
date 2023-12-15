@@ -71,6 +71,7 @@
     -webkit-transform: translatex(-50%);
     -ms-transform: translatex(-50%);
     transform: translatex(-50%);
+    border: 1px solid var(--color-border);
     border-radius: 100%;
 }
 
